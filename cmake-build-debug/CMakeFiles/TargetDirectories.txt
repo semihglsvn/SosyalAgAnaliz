@@ -1,0 +1,3 @@
+C:/Users/semihh/CLionProjects/SosyalAg/cmake-build-debug/CMakeFiles/untitled8.dir
+C:/Users/semihh/CLionProjects/SosyalAg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/semihh/CLionProjects/SosyalAg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
